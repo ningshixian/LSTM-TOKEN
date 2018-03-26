@@ -1,0 +1,6 @@
+
+Minimum loss at epoch: 1 =0.152009036247
+
+Minimum loss at epoch: 2 =0.131752167781
+
+Minimum loss at epoch: 2 =0.136124811548
